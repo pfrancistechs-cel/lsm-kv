@@ -536,3 +536,5 @@ export default function LsmKvDashboard() {
 
 
 <!-- /* WAL indicator component */ -->
+
+<!-- /* Compaction ladder visualization */ -->
