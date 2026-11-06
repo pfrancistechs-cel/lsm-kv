@@ -54,3 +54,5 @@ func (si *SparseIndex) FindBlock(key []byte) (int64, int32, bool) {
 	return si.Entries[candidateIdx].Offset, si.Entries[candidateIdx].Length, true
 }
 
+
+<!-- // In-memory binary search optimization -->
