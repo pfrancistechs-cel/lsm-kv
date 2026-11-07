@@ -65,3 +65,5 @@ cd frontend && npm install && npm run dev
 <!-- Added benchmark results: 142k writes/sec. -->
 
 <!-- Release v1.0.0 verified. -->
+
+<!-- Benchmark: 142k writes/sec, 95k reads/sec -->
