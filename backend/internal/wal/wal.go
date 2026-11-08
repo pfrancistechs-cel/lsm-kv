@@ -133,3 +133,5 @@ func (w *WAL) Close() error {
 	return w.file.Close()
 }
 
+
+<!-- // Batch fsync interval -->
