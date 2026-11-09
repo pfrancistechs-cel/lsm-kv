@@ -540,3 +540,5 @@ export default function LsmKvDashboard() {
 <!-- /* Compaction ladder visualization */ -->
 
 <!-- /* Bloom filter metrics */ -->
+
+<!-- /* Pointer arrow animations */ -->
