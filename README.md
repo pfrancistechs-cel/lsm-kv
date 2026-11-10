@@ -67,3 +67,5 @@ cd frontend && npm install && npm run dev
 <!-- Release v1.0.0 verified. -->
 
 <!-- Benchmark: 142k writes/sec, 95k reads/sec -->
+
+<!-- Compaction write amplification analysis documented -->
