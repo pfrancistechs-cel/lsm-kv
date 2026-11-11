@@ -198,3 +198,5 @@ func (s *SSTable) Close() error {
 	return s.file.Close()
 }
 
+
+<!-- // SSTable file descriptor cleanup -->
