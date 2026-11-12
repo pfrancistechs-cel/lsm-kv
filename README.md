@@ -71,3 +71,5 @@ cd frontend && npm install && npm run dev
 <!-- Compaction write amplification analysis documented -->
 
 <!-- API cURL documentation added -->
+
+<!-- LSM-KV v1.0.0 release milestone -->
